@@ -1,0 +1,5 @@
+{
+  "name": "AI Newsletter Digest",
+  "description": "An application that scans your Gmail inbox for AI-related newsletters and generates a concise, organized daily brief using the Gemini API.",
+  "requestFramePermissions": []
+}
